@@ -23,6 +23,7 @@ Collection of my LeetCode solutions organized by topic using Java.
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0058-length-of-last-word](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0058-length-of-last-word/) | Easy |
 | [0648-replace-words](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0648-replace-words/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 ## Trie

@@ -7,6 +7,7 @@ Collection of my LeetCode solutions organized by topic using Java.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0217-contains-duplicate](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0648-replace-words](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0648-replace-words/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
@@ -21,6 +22,7 @@ Collection of my LeetCode solutions organized by topic using Java.
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0217-contains-duplicate](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0648-replace-words](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0648-replace-words/) | Medium |
 | [3005-count-elements-with-maximum-frequency](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
@@ -44,6 +46,7 @@ Collection of my LeetCode solutions organized by topic using Java.
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0217-contains-duplicate](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |

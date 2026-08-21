@@ -108,6 +108,7 @@ Collection of my LeetCode solutions organized by topic using Java.
 | ------- | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [2469-convert-the-temperature](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/2469-convert-the-temperature/) | Easy |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |

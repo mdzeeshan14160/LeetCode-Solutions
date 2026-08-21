@@ -24,6 +24,7 @@ Collection of my LeetCode solutions organized by topic using Java.
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2670-find-the-distinct-difference-array](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/2670-find-the-distinct-difference-array/) | Easy |
+| [2798-number-of-employees-who-met-the-target](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |

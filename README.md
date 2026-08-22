@@ -54,6 +54,7 @@ Collection of my LeetCode solutions organized by topic using Java.
 | [0058-length-of-last-word](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0058-length-of-last-word/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0648-replace-words](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0648-replace-words/) | Medium |
+| [0709-to-lower-case](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0709-to-lower-case/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 ## Trie
 | Problem Name | Difficulty |

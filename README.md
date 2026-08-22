@@ -56,6 +56,7 @@ Collection of my LeetCode solutions organized by topic using Java.
 | [0648-replace-words](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0648-replace-words/) | Medium |
 | [0709-to-lower-case](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0709-to-lower-case/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
+| [3019-number-of-changing-keys](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/3019-number-of-changing-keys/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |

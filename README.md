@@ -112,6 +112,7 @@ Collection of my LeetCode solutions organized by topic using Java.
 | [2469-convert-the-temperature](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/2469-convert-the-temperature/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
+| [2652-sum-multiples](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/2652-sum-multiples/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |

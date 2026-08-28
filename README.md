@@ -21,6 +21,7 @@ Collection of my LeetCode solutions organized by topic using Java.
 | [0540-single-element-in-a-sorted-array](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0648-replace-words](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0648-replace-words/) | Medium |
 | [0881-boats-to-save-people](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0881-boats-to-save-people/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1550-three-consecutive-odds](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/1550-three-consecutive-odds/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
@@ -43,6 +44,7 @@ Collection of my LeetCode solutions organized by topic using Java.
 | [0151-reverse-words-in-a-string](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0881-boats-to-save-people](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0881-boats-to-save-people/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -93,6 +95,7 @@ Collection of my LeetCode solutions organized by topic using Java.
 | [0217-contains-duplicate](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0881-boats-to-save-people](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0881-boats-to-save-people/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [3024-type-of-triangle](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/3024-type-of-triangle/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |

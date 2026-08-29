@@ -11,6 +11,7 @@ Collection of my LeetCode solutions organized by topic using Java.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0042-trapping-rain-water](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0047-permutations-ii](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0047-permutations-ii/) | Medium |
+| [0048-rotate-image](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0088-merge-sorted-array](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0136-single-number](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0136-single-number/) | Easy |
@@ -131,6 +132,7 @@ Collection of my LeetCode solutions organized by topic using Java.
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0858-mirror-reflection](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0858-mirror-reflection/) | Medium |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
@@ -145,6 +147,7 @@ Collection of my LeetCode solutions organized by topic using Java.
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Divide and Conquer

@@ -16,6 +16,7 @@ Collection of my LeetCode solutions organized by topic using Java.
 | [0088-merge-sorted-array](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0136-single-number](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0136-single-number/) | Easy |
 | [0162-find-peak-element](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0162-find-peak-element/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
@@ -46,6 +47,7 @@ Collection of my LeetCode solutions organized by topic using Java.
 | [0088-merge-sorted-array](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0881-boats-to-save-people](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0881-boats-to-save-people/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -88,6 +90,7 @@ Collection of my LeetCode solutions organized by topic using Java.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0162-find-peak-element](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0162-find-peak-element/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |

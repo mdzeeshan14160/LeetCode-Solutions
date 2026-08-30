@@ -15,6 +15,7 @@ Collection of my LeetCode solutions organized by topic using Java.
 | [0048-rotate-image](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0088-merge-sorted-array](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
+| [0134-gas-station](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0134-gas-station/) | Medium |
 | [0136-single-number](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0136-single-number/) | Easy |
 | [0162-find-peak-element](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -173,6 +174,7 @@ Collection of my LeetCode solutions organized by topic using Java.
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0134-gas-station](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0134-gas-station/) | Medium |
 | [0881-boats-to-save-people](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0881-boats-to-save-people/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 ## Timsort

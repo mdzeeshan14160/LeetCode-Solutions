@@ -35,6 +35,7 @@ Collection of my LeetCode solutions organized by topic using Java.
 | [1822-sign-of-the-product-of-an-array](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [2126-destroying-asteroids](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2241-design-an-atm-machine](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/2241-design-an-atm-machine/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2670-find-the-distinct-difference-array](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/2670-find-the-distinct-difference-array/) | Easy |
@@ -182,6 +183,7 @@ Collection of my LeetCode solutions organized by topic using Java.
 | [0881-boats-to-save-people](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0881-boats-to-save-people/) | Medium |
 | [2126-destroying-asteroids](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2241-design-an-atm-machine](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/2241-design-an-atm-machine/) | Medium |
 ## Timsort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -247,4 +249,8 @@ Collection of my LeetCode solutions organized by topic using Java.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2241-design-an-atm-machine](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/2241-design-an-atm-machine/) | Medium |
 <!---LeetCode Topics End-->

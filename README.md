@@ -28,6 +28,7 @@ Collection of my LeetCode solutions organized by topic using Java.
 | [0648-replace-words](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0648-replace-words/) | Medium |
 | [0860-lemonade-change](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0860-lemonade-change/) | Easy |
 | [0881-boats-to-save-people](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0881-boats-to-save-people/) | Medium |
+| [0932-beautiful-array](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0932-beautiful-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1550-three-consecutive-odds](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/1550-three-consecutive-odds/) | Easy |
@@ -147,6 +148,7 @@ Collection of my LeetCode solutions organized by topic using Java.
 | [0048-rotate-image](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0858-mirror-reflection](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0858-mirror-reflection/) | Medium |
+| [0932-beautiful-array](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0932-beautiful-array/) | Medium |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
@@ -167,6 +169,7 @@ Collection of my LeetCode solutions organized by topic using Java.
 | ------- | ------- |
 | [0169-majority-element](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0932-beautiful-array](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0932-beautiful-array/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |

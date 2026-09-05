@@ -49,6 +49,7 @@ Collection of my LeetCode solutions organized by topic using Java.
 | [3718-smallest-missing-multiple-of-k](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
+| [3904-smallest-stable-index-ii](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -270,4 +271,5 @@ Collection of my LeetCode solutions organized by topic using Java.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3903-smallest-stable-index-i](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
+| [3904-smallest-stable-index-ii](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/3904-smallest-stable-index-ii/) | Medium |
 <!---LeetCode Topics End-->

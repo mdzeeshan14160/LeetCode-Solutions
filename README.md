@@ -27,6 +27,7 @@ Collection of my LeetCode solutions organized by topic using Java.
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0648-replace-words](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0648-replace-words/) | Medium |
+| [0682-baseball-game](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0682-baseball-game/) | Easy |
 | [0860-lemonade-change](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0860-lemonade-change/) | Easy |
 | [0881-boats-to-save-people](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0881-boats-to-save-people/) | Medium |
 | [0932-beautiful-array](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0932-beautiful-array/) | Medium |
@@ -254,6 +255,7 @@ Collection of my LeetCode solutions organized by topic using Java.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0682-baseball-game](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0682-baseball-game/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -281,6 +283,7 @@ Collection of my LeetCode solutions organized by topic using Java.
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0682-baseball-game](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0682-baseball-game/) | Easy |
 | [1929-concatenation-of-array](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [2974-minimum-number-game](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/2974-minimum-number-game/) | Easy |
 ## Prefix Sum

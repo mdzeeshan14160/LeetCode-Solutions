@@ -51,6 +51,7 @@ Collection of my LeetCode solutions organized by topic using Java.
 | [2974-minimum-number-game](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/2974-minimum-number-game/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3024-type-of-triangle](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/3024-type-of-triangle/) | Easy |
+| [3232-find-if-digit-game-can-be-won](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
@@ -180,6 +181,7 @@ Collection of my LeetCode solutions organized by topic using Java.
 | [2769-find-the-maximum-achievable-number](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 | [3024-type-of-triangle](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/3024-type-of-triangle/) | Easy |
+| [3232-find-if-digit-game-can-be-won](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |

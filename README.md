@@ -67,6 +67,7 @@ Collection of my LeetCode solutions organized by topic using Java.
 | [0125-valid-palindrome](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0202-happy-number](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0202-happy-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0881-boats-to-save-people](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0881-boats-to-save-people/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -77,6 +78,7 @@ Collection of my LeetCode solutions organized by topic using Java.
 | [0001-two-sum](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0169-majority-element](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
+| [0202-happy-number](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -167,6 +169,7 @@ Collection of my LeetCode solutions organized by topic using Java.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
+| [0202-happy-number](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0202-happy-number/) | Easy |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0858-mirror-reflection](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0858-mirror-reflection/) | Medium |
 | [0932-beautiful-array](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0932-beautiful-array/) | Medium |
@@ -299,4 +302,8 @@ Collection of my LeetCode solutions organized by topic using Java.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0202-happy-number](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0202-happy-number/) | Easy |
 <!---LeetCode Topics End-->

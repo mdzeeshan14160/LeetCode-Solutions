@@ -9,6 +9,7 @@ Collection of my LeetCode solutions organized by topic using Java.
 | [0001-two-sum](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0015-3sum](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0031-next-permutation](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0042-trapping-rain-water](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
@@ -63,6 +64,7 @@ Collection of my LeetCode solutions organized by topic using Java.
 | [0015-3sum](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0031-next-permutation](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0088-merge-sorted-array](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0125-valid-palindrome/) | Easy |

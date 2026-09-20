@@ -297,6 +297,7 @@ Collection of my LeetCode solutions organized by topic using Java.
 | ------- | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0141-linked-list-cycle](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
+| [0206-reverse-linked-list](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
@@ -339,4 +340,8 @@ Collection of my LeetCode solutions organized by topic using Java.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0455-assign-cookies/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->

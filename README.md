@@ -297,6 +297,7 @@ Collection of my LeetCode solutions organized by topic using Java.
 | ------- | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0141-linked-list-cycle](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
+| [0237-delete-node-in-a-linked-list](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |

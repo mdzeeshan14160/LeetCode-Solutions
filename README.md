@@ -362,4 +362,5 @@ Collection of my LeetCode solutions organized by topic using Java.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0175-combine-two-tables/) | Easy |
+| [0577-employee-bonus](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0577-employee-bonus/) | Easy |
 <!---LeetCode Topics End-->

@@ -370,6 +370,7 @@ Collection of my LeetCode solutions organized by topic using Java.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0175-combine-two-tables/) | Easy |
+| [0181-employees-earning-more-than-their-managers](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0577-employee-bonus](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0577-employee-bonus/) | Easy |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |

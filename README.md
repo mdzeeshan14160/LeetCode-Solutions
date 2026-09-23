@@ -41,6 +41,7 @@ Collection of my LeetCode solutions organized by topic using Java.
 | [0977-squares-of-a-sorted-array](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1470-shuffle-the-array](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/1470-shuffle-the-array/) | Easy |
 | [1550-three-consecutive-odds](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/1550-three-consecutive-odds/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |

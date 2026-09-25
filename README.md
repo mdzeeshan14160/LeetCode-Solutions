@@ -28,6 +28,7 @@ Collection of my LeetCode solutions organized by topic using Java.
 | [0189-rotate-array](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -106,6 +107,7 @@ Collection of my LeetCode solutions organized by topic using Java.
 | [0169-majority-element](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -203,6 +205,7 @@ Collection of my LeetCode solutions organized by topic using Java.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0219-contains-duplicate-ii](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 ## Math
 | Problem Name | Difficulty |

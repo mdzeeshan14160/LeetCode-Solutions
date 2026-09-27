@@ -18,6 +18,7 @@ Collection of my LeetCode solutions organized by topic using Java.
 | [0074-search-a-2d-matrix](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0084-largest-rectangle-in-histogram](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0088-merge-sorted-array](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0134-gas-station](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0134-gas-station/) | Medium |
 | [0136-single-number](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0136-single-number/) | Easy |
@@ -314,6 +315,7 @@ Collection of my LeetCode solutions organized by topic using Java.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0084-largest-rectangle-in-histogram](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0682-baseball-game](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0682-baseball-game/) | Easy |
@@ -321,6 +323,7 @@ Collection of my LeetCode solutions organized by topic using Java.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0084-largest-rectangle-in-histogram](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -393,4 +396,8 @@ Collection of my LeetCode solutions organized by topic using Java.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Range Minimum/Maximum Query
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 <!---LeetCode Topics End-->

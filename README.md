@@ -56,6 +56,7 @@ Collection of my LeetCode solutions organized by topic using Java.
 | [2241-design-an-atm-machine](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/2241-design-an-atm-machine/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
 | [2670-find-the-distinct-difference-array](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/2670-find-the-distinct-difference-array/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2942-find-words-containing-character](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/2942-find-words-containing-character/) | Easy |
@@ -251,6 +252,7 @@ Collection of my LeetCode solutions organized by topic using Java.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
 | [2974-minimum-number-game](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/2974-minimum-number-game/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
@@ -358,6 +360,7 @@ Collection of my LeetCode solutions organized by topic using Java.
 | [0657-robot-return-to-origin](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0682-baseball-game](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0682-baseball-game/) | Easy |
 | [1929-concatenation-of-array](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/1929-concatenation-of-array/) | Easy |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
 | [2974-minimum-number-game](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/2974-minimum-number-game/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |

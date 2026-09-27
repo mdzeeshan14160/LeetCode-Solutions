@@ -317,6 +317,7 @@ Collection of my LeetCode solutions organized by topic using Java.
 | [0042-trapping-rain-water](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0232-implement-queue-using-stacks](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0682-baseball-game](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0682-baseball-game/) | Easy |
 ## Monotonic Stack
@@ -348,6 +349,7 @@ Collection of my LeetCode solutions organized by topic using Java.
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [2241-design-an-atm-machine](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/2241-design-an-atm-machine/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -365,6 +367,7 @@ Collection of my LeetCode solutions organized by topic using Java.
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |

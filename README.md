@@ -33,6 +33,7 @@ Collection of my LeetCode solutions organized by topic using Java.
 | [0287-find-the-duplicate-number](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0442-find-all-duplicates-in-an-array](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0455-assign-cookies](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
@@ -113,6 +114,7 @@ Collection of my LeetCode solutions organized by topic using Java.
 | [0349-intersection-of-two-arrays](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0442-find-all-duplicates-in-an-array](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0648-replace-words](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0648-replace-words/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2670-find-the-distinct-difference-array](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/2670-find-the-distinct-difference-array/) | Easy |
@@ -175,6 +177,7 @@ Collection of my LeetCode solutions organized by topic using Java.
 | [0217-contains-duplicate](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0442-find-all-duplicates-in-an-array](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0455-assign-cookies](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0881-boats-to-save-people](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0881-boats-to-save-people/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |

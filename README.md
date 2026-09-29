@@ -130,6 +130,7 @@ Collection of my LeetCode solutions organized by topic using Java.
 | [0067-add-binary](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0067-add-binary/) | Easy |
 | [0125-valid-palindrome](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0168-excel-sheet-column-title](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0344-reverse-string](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
@@ -220,6 +221,7 @@ Collection of my LeetCode solutions organized by topic using Java.
 | [0048-rotate-image](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0067-add-binary](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0067-add-binary/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0168-excel-sheet-column-title](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0189-rotate-array](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0202-happy-number/) | Easy |

@@ -15,6 +15,7 @@ Collection of my LeetCode solutions organized by topic using Java.
 | [0042-trapping-rain-water](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0047-permutations-ii](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0047-permutations-ii/) | Medium |
 | [0048-rotate-image](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
+| [0055-jump-game](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0055-jump-game/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
@@ -268,6 +269,7 @@ Collection of my LeetCode solutions organized by topic using Java.
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0055-jump-game](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0055-jump-game/) | Medium |
 | [0134-gas-station](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0134-gas-station/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0455-assign-cookies/) | Easy |
@@ -320,6 +322,7 @@ Collection of my LeetCode solutions organized by topic using Java.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0055-jump-game](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0055-jump-game/) | Medium |
 | [0392-is-subsequence](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 ## Stack

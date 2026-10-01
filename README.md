@@ -22,6 +22,7 @@ Collection of my LeetCode solutions organized by topic using Java.
 | [0084-largest-rectangle-in-histogram](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0088-merge-sorted-array](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0134-gas-station](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0134-gas-station/) | Medium |
+| [0135-candy](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0135-candy/) | Hard |
 | [0136-single-number](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0136-single-number/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0162-find-peak-element](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0162-find-peak-element/) | Medium |
@@ -271,6 +272,7 @@ Collection of my LeetCode solutions organized by topic using Java.
 | ------- | ------- |
 | [0055-jump-game](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0055-jump-game/) | Medium |
 | [0134-gas-station](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0134-gas-station/) | Medium |
+| [0135-candy](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0135-candy/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0680-valid-palindrome-ii/) | Easy |

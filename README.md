@@ -51,6 +51,7 @@ Collection of my LeetCode solutions organized by topic using Java.
 | [1470-shuffle-the-array](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/1470-shuffle-the-array/) | Easy |
 | [1550-three-consecutive-odds](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/1550-three-consecutive-odds/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
+| [1710-maximum-units-on-a-truck](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
@@ -189,6 +190,7 @@ Collection of my LeetCode solutions organized by topic using Java.
 | [0455-assign-cookies](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0881-boats-to-save-people](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0881-boats-to-save-people/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1710-maximum-units-on-a-truck](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [2126-destroying-asteroids](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2974-minimum-number-game](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/2974-minimum-number-game/) | Easy |
@@ -282,6 +284,7 @@ Collection of my LeetCode solutions organized by topic using Java.
 | [0763-partition-labels](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0763-partition-labels/) | Medium |
 | [0860-lemonade-change](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0860-lemonade-change/) | Easy |
 | [0881-boats-to-save-people](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0881-boats-to-save-people/) | Medium |
+| [1710-maximum-units-on-a-truck](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [2126-destroying-asteroids](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2241-design-an-atm-machine](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/2241-design-an-atm-machine/) | Medium |

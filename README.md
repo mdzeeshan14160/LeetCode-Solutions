@@ -100,6 +100,7 @@ Collection of my LeetCode solutions organized by topic using Java.
 | [0455-assign-cookies](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0541-reverse-string-ii](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0541-reverse-string-ii/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [0763-partition-labels](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0763-partition-labels/) | Medium |
 | [0881-boats-to-save-people](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0881-boats-to-save-people/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
@@ -119,6 +120,7 @@ Collection of my LeetCode solutions organized by topic using Java.
 | [0387-first-unique-character-in-a-string](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0648-replace-words](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0648-replace-words/) | Medium |
+| [0763-partition-labels](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0763-partition-labels/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2670-find-the-distinct-difference-array](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/2670-find-the-distinct-difference-array/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
@@ -144,6 +146,7 @@ Collection of my LeetCode solutions organized by topic using Java.
 | [0657-robot-return-to-origin](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0709-to-lower-case](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0709-to-lower-case/) | Easy |
+| [0763-partition-labels](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0763-partition-labels/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
@@ -276,6 +279,7 @@ Collection of my LeetCode solutions organized by topic using Java.
 | [0435-non-overlapping-intervals](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [0763-partition-labels](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0763-partition-labels/) | Medium |
 | [0860-lemonade-change](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0860-lemonade-change/) | Easy |
 | [0881-boats-to-save-people](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0881-boats-to-save-people/) | Medium |
 | [2126-destroying-asteroids](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/2126-destroying-asteroids/) | Medium |

@@ -151,6 +151,7 @@ Collection of my LeetCode solutions organized by topic using Java.
 | [1832-check-if-the-sentence-is-pangram](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
+| [2390-removing-stars-from-a-string](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2942-find-words-containing-character](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/2942-find-words-containing-character/) | Easy |
@@ -343,6 +344,7 @@ Collection of my LeetCode solutions organized by topic using Java.
 | [0232-implement-queue-using-stacks](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0682-baseball-game](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0682-baseball-game/) | Easy |
+| [2390-removing-stars-from-a-string](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -381,6 +383,7 @@ Collection of my LeetCode solutions organized by topic using Java.
 | [0657-robot-return-to-origin](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0682-baseball-game](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0682-baseball-game/) | Easy |
 | [1929-concatenation-of-array](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/1929-concatenation-of-array/) | Easy |
+| [2390-removing-stars-from-a-string](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
 | [2974-minimum-number-game](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/2974-minimum-number-game/) | Easy |
 ## Prefix Sum

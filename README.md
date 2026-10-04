@@ -33,6 +33,7 @@ Collection of my LeetCode solutions organized by topic using Java.
 | [0217-contains-duplicate](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0322-coin-change](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0322-coin-change/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
@@ -337,6 +338,7 @@ Collection of my LeetCode solutions organized by topic using Java.
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0055-jump-game](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0055-jump-game/) | Medium |
+| [0322-coin-change](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0322-coin-change/) | Medium |
 | [0392-is-subsequence](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 ## Stack
@@ -373,6 +375,7 @@ Collection of my LeetCode solutions organized by topic using Java.
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0322-coin-change](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0322-coin-change/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -441,4 +444,12 @@ Collection of my LeetCode solutions organized by topic using Java.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0322-coin-change/) | Medium |
+## Complete Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0322-coin-change/) | Medium |
 <!---LeetCode Topics End-->

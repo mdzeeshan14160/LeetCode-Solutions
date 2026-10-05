@@ -244,6 +244,7 @@ Collection of my LeetCode solutions organized by topic using Java.
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/1486-xor-operation-in-an-array/) | Easy |
+| [1492-the-kth-factor-of-n](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/1492-the-kth-factor-of-n/) | Medium |
 | [1822-sign-of-the-product-of-an-array](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [2469-convert-the-temperature](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/2469-convert-the-temperature/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
@@ -325,6 +326,7 @@ Collection of my LeetCode solutions organized by topic using Java.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0858-mirror-reflection](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0858-mirror-reflection/) | Medium |
+| [1492-the-kth-factor-of-n](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/1492-the-kth-factor-of-n/) | Medium |
 ## Least Common Multiple
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -452,4 +454,8 @@ Collection of my LeetCode solutions organized by topic using Java.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0322-coin-change/) | Medium |
+## Prime Factorization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1492-the-kth-factor-of-n](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/1492-the-kth-factor-of-n/) | Medium |
 <!---LeetCode Topics End-->

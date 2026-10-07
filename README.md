@@ -49,6 +49,7 @@ Collection of my LeetCode solutions organized by topic using Java.
 | [0977-squares-of-a-sorted-array](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1338-reduce-array-size-to-the-half](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1470-shuffle-the-array](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/1470-shuffle-the-array/) | Easy |
 | [1550-three-consecutive-odds](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/1550-three-consecutive-odds/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
@@ -125,6 +126,7 @@ Collection of my LeetCode solutions organized by topic using Java.
 | [0442-find-all-duplicates-in-an-array](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0648-replace-words](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0648-replace-words/) | Medium |
 | [0763-partition-labels](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0763-partition-labels/) | Medium |
+| [1338-reduce-array-size-to-the-half](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2670-find-the-distinct-difference-array](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/2670-find-the-distinct-difference-array/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
@@ -195,6 +197,7 @@ Collection of my LeetCode solutions organized by topic using Java.
 | [0455-assign-cookies](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0881-boats-to-save-people](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0881-boats-to-save-people/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1338-reduce-array-size-to-the-half](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1710-maximum-units-on-a-truck](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [2126-destroying-asteroids](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -277,6 +280,7 @@ Collection of my LeetCode solutions organized by topic using Java.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [1338-reduce-array-size-to-the-half](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
 | [2974-minimum-number-game](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/2974-minimum-number-game/) | Easy |
@@ -296,6 +300,7 @@ Collection of my LeetCode solutions organized by topic using Java.
 | [0763-partition-labels](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0763-partition-labels/) | Medium |
 | [0860-lemonade-change](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0860-lemonade-change/) | Easy |
 | [0881-boats-to-save-people](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0881-boats-to-save-people/) | Medium |
+| [1338-reduce-array-size-to-the-half](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1710-maximum-units-on-a-truck](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [2126-destroying-asteroids](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |

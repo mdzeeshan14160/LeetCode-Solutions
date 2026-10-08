@@ -159,6 +159,7 @@ Collection of my LeetCode solutions organized by topic using Java.
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
+| [2734-lexicographically-smallest-string-after-substring-operation](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/2734-lexicographically-smallest-string-after-substring-operation/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2942-find-words-containing-character](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/2942-find-words-containing-character/) | Easy |
 | [3019-number-of-changing-keys](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/3019-number-of-changing-keys/) | Easy |
@@ -306,6 +307,7 @@ Collection of my LeetCode solutions organized by topic using Java.
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2241-design-an-atm-machine](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/2241-design-an-atm-machine/) | Medium |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
+| [2734-lexicographically-smallest-string-after-substring-operation](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/2734-lexicographically-smallest-string-after-substring-operation/) | Medium |
 ## Timsort
 | Problem Name | Difficulty |
 | ------- | ------- |

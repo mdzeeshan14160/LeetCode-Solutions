@@ -264,6 +264,7 @@ Collection of my LeetCode solutions organized by topic using Java.
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 | [3024-type-of-triangle](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/3024-type-of-triangle/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -328,6 +329,7 @@ Collection of my LeetCode solutions organized by topic using Java.
 | [0187-repeated-dna-sequences](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [1486-xor-operation-in-an-array](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/1486-xor-operation-in-an-array/) | Easy |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 ## Polygons
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -412,6 +414,7 @@ Collection of my LeetCode solutions organized by topic using Java.
 | [2390-removing-stars-from-a-string](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
 | [2974-minimum-number-game](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/2974-minimum-number-game/) | Easy |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -438,6 +441,7 @@ Collection of my LeetCode solutions organized by topic using Java.
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 ## Bubble Sort
 | Problem Name | Difficulty |
 | ------- | ------- |

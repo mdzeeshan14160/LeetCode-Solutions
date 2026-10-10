@@ -12,6 +12,7 @@ Collection of my LeetCode solutions organized by topic using Java.
 | [0031-next-permutation](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0039-combination-sum](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0039-combination-sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0047-permutations-ii](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0047-permutations-ii/) | Medium |
 | [0048-rotate-image](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
@@ -316,6 +317,7 @@ Collection of my LeetCode solutions organized by topic using Java.
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0039-combination-sum](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0039-combination-sum/) | Medium |
 | [0047-permutations-ii](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0047-permutations-ii/) | Medium |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |

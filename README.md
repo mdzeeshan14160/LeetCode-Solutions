@@ -319,6 +319,7 @@ Collection of my LeetCode solutions organized by topic using Java.
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0039-combination-sum/) | Medium |
 | [0047-permutations-ii](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0047-permutations-ii/) | Medium |
+| [0077-combinations](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0077-combinations/) | Medium |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |

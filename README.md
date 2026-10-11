@@ -67,6 +67,7 @@ Collection of my LeetCode solutions organized by topic using Java.
 | [2452-words-within-two-edits-of-dictionary](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
+| [2656-maximum-sum-with-exactly-k-elements](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
 | [2670-find-the-distinct-difference-array](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/2670-find-the-distinct-difference-array/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2942-find-words-containing-character](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/2942-find-words-containing-character/) | Easy |
@@ -312,6 +313,7 @@ Collection of my LeetCode solutions organized by topic using Java.
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2241-design-an-atm-machine](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/2241-design-an-atm-machine/) | Medium |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
+| [2656-maximum-sum-with-exactly-k-elements](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
 | [2734-lexicographically-smallest-string-after-substring-operation](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/2734-lexicographically-smallest-string-after-substring-operation/) | Medium |
 ## Timsort
 | Problem Name | Difficulty |

@@ -22,6 +22,7 @@ Collection of my LeetCode solutions organized by topic using Java.
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0088-merge-sorted-array](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
+| [0090-subsets-ii](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0134-gas-station](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0134-gas-station/) | Medium |
 | [0135-candy](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0135-candy/) | Hard |
 | [0136-single-number](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0136-single-number/) | Easy |
@@ -320,6 +321,7 @@ Collection of my LeetCode solutions organized by topic using Java.
 | [0039-combination-sum](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0039-combination-sum/) | Medium |
 | [0047-permutations-ii](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0047-permutations-ii/) | Medium |
 | [0077-combinations](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0077-combinations/) | Medium |
+| [0090-subsets-ii](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0090-subsets-ii/) | Medium |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -328,6 +330,7 @@ Collection of my LeetCode solutions organized by topic using Java.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0067-add-binary/) | Easy |
+| [0090-subsets-ii](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0136-single-number](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0136-single-number/) | Easy |
 | [0187-repeated-dna-sequences](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |

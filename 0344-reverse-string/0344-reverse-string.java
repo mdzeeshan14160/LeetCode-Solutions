@@ -1,12 +1,14 @@
 class Solution {
+    int i = 0;
+
     public void reverseString(char[] s) {
-        int low = 0, high = s.length - 1;
-        while (low <= high) {
-            char temp = s[low];
-            s[low] = s[high];
-            s[high] = temp;
-            low++;
-            high--;
-        }
+        int n = s.length-1;
+        if (i > n / 2)
+            return;
+        char temp = s[i];
+        s[i] = s[n - i];
+        s[n - i] = temp;
+        i++;
+        reverseString(s);
     }
 }

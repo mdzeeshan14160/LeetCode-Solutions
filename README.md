@@ -253,6 +253,7 @@ Collection of my LeetCode solutions organized by topic using Java.
 | [0172-factorial-trailing-zeroes](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0189-rotate-array](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0202-happy-number/) | Easy |
+| [0231-power-of-two](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0231-power-of-two/) | Easy |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0858-mirror-reflection](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0858-mirror-reflection/) | Medium |
 | [0932-beautiful-array](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0932-beautiful-array/) | Medium |
@@ -337,6 +338,7 @@ Collection of my LeetCode solutions organized by topic using Java.
 | [0090-subsets-ii](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0136-single-number](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0136-single-number/) | Easy |
 | [0187-repeated-dna-sequences](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0187-repeated-dna-sequences/) | Medium |
+| [0231-power-of-two](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0231-power-of-two/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [1486-xor-operation-in-an-array](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
@@ -451,6 +453,7 @@ Collection of my LeetCode solutions organized by topic using Java.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
+| [0231-power-of-two](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0231-power-of-two/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 ## Bubble Sort

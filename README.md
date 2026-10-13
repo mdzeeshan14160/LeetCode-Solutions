@@ -254,6 +254,7 @@ Collection of my LeetCode solutions organized by topic using Java.
 | [0189-rotate-array](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0231-power-of-two/) | Easy |
+| [0326-power-of-three](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0326-power-of-three/) | Easy |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0858-mirror-reflection](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0858-mirror-reflection/) | Medium |
 | [0932-beautiful-array](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0932-beautiful-array/) | Medium |
@@ -455,6 +456,7 @@ Collection of my LeetCode solutions organized by topic using Java.
 | [0206-reverse-linked-list](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0231-power-of-two/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0326-power-of-three](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0326-power-of-three/) | Easy |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 ## Bubble Sort
 | Problem Name | Difficulty |

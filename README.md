@@ -58,6 +58,7 @@ Collection of my LeetCode solutions organized by topic using Java.
 | [1710-maximum-units-on-a-truck](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/1929-concatenation-of-array/) | Easy |
+| [2094-finding-3-digit-even-numbers](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2126-destroying-asteroids](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/2126-destroying-asteroids/) | Medium |
@@ -133,6 +134,7 @@ Collection of my LeetCode solutions organized by topic using Java.
 | [0763-partition-labels](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0763-partition-labels/) | Medium |
 | [1338-reduce-array-size-to-the-half](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
+| [2094-finding-3-digit-even-numbers](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2670-find-the-distinct-difference-array](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/2670-find-the-distinct-difference-array/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -205,6 +207,7 @@ Collection of my LeetCode solutions organized by topic using Java.
 | [0977-squares-of-a-sorted-array](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1338-reduce-array-size-to-the-half](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1710-maximum-units-on-a-truck](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/1710-maximum-units-on-a-truck/) | Easy |
+| [2094-finding-3-digit-even-numbers](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2126-destroying-asteroids](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
@@ -460,6 +463,7 @@ Collection of my LeetCode solutions organized by topic using Java.
 | [0234-palindrome-linked-list](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0326-power-of-three](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0326-power-of-three/) | Easy |
 | [0509-fibonacci-number](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
+| [2094-finding-3-digit-even-numbers](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 ## Bubble Sort
 | Problem Name | Difficulty |
@@ -507,4 +511,8 @@ Collection of my LeetCode solutions organized by topic using Java.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 <!---LeetCode Topics End-->

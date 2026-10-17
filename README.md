@@ -76,6 +76,7 @@ Collection of my LeetCode solutions organized by topic using Java.
 | [3005-count-elements-with-maximum-frequency](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3024-type-of-triangle](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/3024-type-of-triangle/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
@@ -137,6 +138,7 @@ Collection of my LeetCode solutions organized by topic using Java.
 | [2094-finding-3-digit-even-numbers](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2670-find-the-distinct-difference-array](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/2670-find-the-distinct-difference-array/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -465,6 +467,7 @@ Collection of my LeetCode solutions organized by topic using Java.
 | [0509-fibonacci-number](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Bubble Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -515,4 +518,5 @@ Collection of my LeetCode solutions organized by topic using Java.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 <!---LeetCode Topics End-->

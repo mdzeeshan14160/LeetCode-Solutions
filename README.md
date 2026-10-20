@@ -127,6 +127,7 @@ Collection of my LeetCode solutions organized by topic using Java.
 | [0202-happy-number](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0242-valid-anagram](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -153,6 +154,7 @@ Collection of my LeetCode solutions organized by topic using Java.
 | [0168-excel-sheet-column-title](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0187-repeated-dna-sequences](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0187-repeated-dna-sequences/) | Medium |
+| [0242-valid-anagram](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -200,6 +202,7 @@ Collection of my LeetCode solutions organized by topic using Java.
 | [0169-majority-element](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |

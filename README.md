@@ -167,6 +167,7 @@ Collection of my LeetCode solutions organized by topic using Java.
 | [0680-valid-palindrome-ii](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0709-to-lower-case](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0709-to-lower-case/) | Easy |
 | [0763-partition-labels](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0763-partition-labels/) | Medium |
+| [1208-get-equal-substrings-within-budget](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
@@ -195,6 +196,7 @@ Collection of my LeetCode solutions organized by topic using Java.
 | [0350-intersection-of-two-arrays-ii](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1208-get-equal-substrings-within-budget](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -252,6 +254,7 @@ Collection of my LeetCode solutions organized by topic using Java.
 | [0003-longest-substring-without-repeating-characters](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0187-repeated-dna-sequences](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [1208-get-equal-substrings-within-budget](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -448,6 +451,7 @@ Collection of my LeetCode solutions organized by topic using Java.
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1208-get-equal-substrings-within-budget](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/mdzeeshan14160/LeetCode-Solutions/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Queue
